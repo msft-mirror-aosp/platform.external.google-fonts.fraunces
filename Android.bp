@@ -16,10 +16,12 @@
 prebuilt_font {
     name: "Fraunces-Regular.ttf",
     src: "Fraunces-Regular.ttf",
+    product_specific: true,
 }
         
 prebuilt_font {
     name: "Fraunces-SemiBold.ttf",
     src: "Fraunces-SemiBold.ttf",
+    product_specific: true,
 }
         
